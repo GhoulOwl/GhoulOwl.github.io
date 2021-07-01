@@ -3,7 +3,7 @@ var titleTime;
 document.addEventListener('visibilitychange', function() {
     if (document.hidden) {
         //$('[rel="icon"]').attr('href', "/img/favicon.ico");
-        document.title = '(つェ⊂) 我藏好了哦~~';
+        document.title = '(つェ⊂) 偷偷藏起来~~';
         clearTimeout(titleTime);
     } else {
         //$('[rel="icon"]').attr('href', "/img/favicon.ico");
