@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkindex"]=self["webpackChunkindex"]||[]).push([[519],{9519:function(n,e,u){u.r(e),u.d(e,{default:function(){return d}});var r=u(3396);const t=(0,r._)("h1",null,"商品详情页面",-1),c=[t];function i(n,e){return(0,r.wg)(),(0,r.iD)("div",null,c)}var l=u(89);const s={},a=(0,l.Z)(s,[["render",i]]);var d=a}}]);
+//# sourceMappingURL=519.92b34dd6.js.map

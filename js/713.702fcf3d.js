@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkindex"]=self["webpackChunkindex"]||[]).push([[713],{1713:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var u=r(3396);function t(n,e){return(0,u.wg)(),(0,u.iD)("h1",null,"商品列表页面")}var c=r(89);const i={},a=(0,c.Z)(i,[["render",t]]);var f=a}}]);
+//# sourceMappingURL=713.702fcf3d.js.map
